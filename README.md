@@ -5,6 +5,7 @@ Sean Istre
 ### Heroes of Pymoli Data Analysis
 Using the Pandas Library and the Jupyter Notebook the enclosed notebook (HeroesOfPymoli.ipynb) contains code that reads the purchase_data.csv in the Resources folder and does the following analysis based on the data contained within about the fantasy game Heroes of Pymoli:
 
+NOTE: A PDF output of the notebook is included to show the actual output due to the fact that github does not display them correctly.
 
 ### Player Count
 
